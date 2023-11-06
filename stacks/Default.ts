@@ -1,5 +1,4 @@
-import { Config } from "sst/node/config";
-import {  StackContext, NextjsSite } from "sst/constructs";
+import { Config, StackContext, NextjsSite } from "sst/constructs";
 
 export function Default({ stack }: StackContext) {
   // const NEXTAUTH_URL = new Config.Secret(stack, "NEXTAUTH_URL");
