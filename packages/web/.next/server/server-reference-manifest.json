@@ -1,0 +1,14 @@
+{
+  "node": {
+    "1da8243d3bbe00194904adc7785deed701e84ba3": {
+      "workers": {
+        "app/serverAction/page": "(rsc)/../../node_modules/.pnpm/next@14.0.1_@babel+core@7.23.2_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhosnaqasmei%2FDesktop%2Fmy-sst-app%2Fpackages%2Fweb%2Fsrc%2Fapp%2FserverAction%2Fpage.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/serverAction/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "E9thxoGgkeq+/HPtW+oVbnSbiU4srUVPW6XRWaOfjy4="
+}
